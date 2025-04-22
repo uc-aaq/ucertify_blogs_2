@@ -1,0 +1,580 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: uCertify Customized Armenian Translation\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Instigate Sytems <info@artsakh.instigate.am>\n"
+"Language-Team: Narine Poghosyan <haynariko91@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n==1) ? 0 : (n%10==1 && n%100!=11) ? 3 : ((n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20)) ? 1 : 2);\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: Armenian\n"
+"X-Poedit-Country: Armenia\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#@ uc-customized
+#: 404.php:19
+msgid "This is somewhat embarrassing, isn&rsquo;t it?"
+msgstr "Ã”Â´Ã•Â¸Ã–â€šÃ–â€ž Ã•Â¤Ã•Â«Ã•Â´Ã•Â¥Ã•Â¬ Ã•Â¥Ã–â€ž Ã•Â½Ã•Â­Ã•Â¡Ã•Â¬ Ã•Â°Ã•Â¡Ã•Â½Ã–ï¿½Ã•Â¥Ã•Â¸Ã•Â¾"
+
+#@ uc-customized
+#: 404.php:23
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching, or one of the links below, can help."
+msgstr "Ã•â€žÃ•Â¥Ã•Â¶Ã–â€ž Ã•Â¹Ã•Â¥Ã•Â¶Ã–â€ž Ã•Â¯Ã•Â¡Ã–â‚¬Ã•Â¸Ã•Â² Ã•Â£Ã•Â¿Ã•Â¶Ã•Â¥Ã•Â¬ Ã•Â¡Ã•ÂµÃ•Â¶ Ã•Â«Ã•Â¶Ã•Â¹ Ã”Â´Ã•Â¸Ã–â€šÃ–â€ž Ã–Æ’Ã•Â¶Ã•Â¿Ã–â‚¬Ã•Â¸Ã–â€šÃ•Â´ Ã•Â¥Ã–â€žÃ–â€° Ã•ï¿½Ã•Â¥Ã•Â¦ Ã•Â¯Ã•Â¡Ã–â‚¬Ã•Â¸Ã•Â² Ã•Â§ Ã–â€¦Ã•Â£Ã•Â¶Ã•Â¥Ã•Â¬ Ã•Â¸Ã–â‚¬Ã•Â¸Ã•Â¶Ã•Â¸Ã–â€šÃ•Â´Ã•Â¨ Ã•Â¯Ã•Â¡Ã•Â´ Ã•Â½Ã•Â¿Ã•Â¸Ã–â‚¬Ã–â€¡ Ã•Â¶Ã•Â·Ã•Â¾Ã•Â¡Ã•Â® Ã•Â°Ã•Â²Ã•Â¸Ã–â€šÃ•Â´Ã•Â¶Ã•Â¥Ã–â‚¬Ã•Â¨Ã–â€°"
+
+#@ uc-customized
+#: 404.php:30
+msgid "Most Used Categories"
+msgstr "Ã•â‚¬Ã•Â¡Ã•Â³Ã•Â¡Ã•Â­ Ã–â€¦Ã•Â£Ã•Â¿Ã•Â¡Ã•Â£Ã•Â¸Ã–â‚¬Ã•Â®Ã•Â¾Ã•Â¸Ã•Â² Ã•Â¯Ã•Â¡Ã•Â¿Ã•Â¥Ã•Â£Ã•Â¸Ã–â‚¬Ã•Â«Ã•Â¡Ã•Â¶Ã•Â¥Ã–â‚¬"
+
+#@ uc-customized
+#. translators: %1$s: smilie
+#: 404.php:44
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Ã•â€œÃ•Â¸Ã–â‚¬Ã•Â±Ã•Â¥Ã–â€ž Ã•Â¶Ã•Â¡Ã•ÂµÃ•Â¥Ã•Â¬ Ã•Â¡Ã–â‚¬Ã•Â­Ã•Â«Ã•Â¾Ã•Â¸Ã–â€šÃ•Â´ Ã•Â¨Ã•Â½Ã•Â¿ Ã•Â¡Ã•Â´Ã•Â«Ã•Â½Ã•Â¶Ã•Â¥Ã–â‚¬Ã•Â«Ã–â€° %1$s"
+
+#@ uc-customized
+#: archive.php:28
+#, php-format
+msgid "Daily Archives: %s"
+msgstr "Ã”Â±Ã–â‚¬Ã•Â­Ã•Â«Ã•Â¾Ã•Â¶Ã•Â¥Ã–â‚¬Ã•Â¨ Ã•Â¨Ã•Â½Ã•Â¿ Ã–â€¦Ã–â‚¬Ã•Â¥Ã–â‚¬Ã•Â«Ã¢â‚¬Â¤ %s"
+
+#@ uc-customized
+#: archive.php:30
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr "Ã”Â±Ã–â‚¬Ã•Â­Ã•Â«Ã•Â¾Ã•Â¶Ã•Â¥Ã–â‚¬Ã•Â¨ Ã•Â¨Ã•Â½Ã•Â¿ Ã•Â¡Ã•Â´Ã•Â«Ã•Â½Ã•Â¶Ã•Â¥Ã–â‚¬Ã•Â«Ã¢â‚¬Â¤ %s"
+
+#@ uc-customized
+#: archive.php:32
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr "Ã”Â±Ã–â‚¬Ã•Â­Ã•Â«Ã•Â¾Ã•Â¶Ã•Â¥Ã–â‚¬ Ã•Â¨Ã•Â½Ã•Â¿ Ã•Â¿Ã•Â¡Ã–â‚¬Ã•Â«Ã•Â¶Ã•Â¥Ã–â‚¬Ã•Â«Ã¢â‚¬Â¤ %s"
+
+#@ uc-customized
+#: archive.php:34
+msgid "Blog Archives"
+msgstr "Ã”Â³Ã–â‚¬Ã•Â¡Ã•Â¼Ã•Â¸Ã–â€šÃ•Â´Ã•Â¶Ã•Â¥Ã–â‚¬Ã•Â« Ã•Â¡Ã–â‚¬Ã•Â­Ã•Â«Ã•Â¾"
+
+#@ uc-customized
+#: author.php:21
+#, php-format
+msgid "Author Archives: %s"
+msgstr "Ã”Â±Ã–â‚¬Ã•Â­Ã•Â«Ã•Â¾Ã•Â¶Ã•Â¥Ã–â‚¬ Ã•Â¨Ã•Â½Ã•Â¿ Ã•Â°Ã•Â¥Ã•Â²Ã•Â«Ã•Â¶Ã•Â¡Ã•Â¯Ã•Â«Ã¢â‚¬Â¤ %s"
+
+#@ uc-customized
+#: author.php:29
+#: partials/content-single.php:39
+#, php-format
+msgid "About %s"
+msgstr "%s Ã•Â´Ã•Â¡Ã•Â½Ã•Â«Ã•Â¶"
+
+#@ uc-customized
+#: category.php:21
+#, php-format
+msgid "Category Archives: %s"
+msgstr "Ã”Â±Ã–â‚¬Ã•Â­Ã•Â«Ã•Â¾Ã•Â¶Ã•Â¥Ã–â‚¬Ã•Â¶ Ã•Â¨Ã•Â½Ã•Â¿ Ã•Â¯Ã•Â¡Ã•Â¿Ã•Â¥Ã•Â£Ã•Â¸Ã–â‚¬Ã•Â«Ã•Â¡Ã•Â¶Ã•Â¥Ã–â‚¬Ã•Â«Ã¢â‚¬Â¤ %s"
+
+#@ uc-customized
+#: comments.php:20
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr "Ã”Â±Ã•ÂµÃ•Â½ Ã•Â£Ã–â‚¬Ã•Â¡Ã•Â¼Ã•Â¸Ã–â€šÃ•Â´Ã•Â¨ Ã•ÂºÃ•Â¡Ã•Â·Ã•Â¿Ã•ÂºÃ•Â¡Ã•Â¶Ã•Â¾Ã•Â¡Ã•Â® Ã•Â§ Ã•Â£Ã•Â¡Ã•Â²Ã•Â¿Ã•Â¶Ã•Â¡Ã•Â¢Ã•Â¡Ã•Â¼Ã•Â¸Ã•Â¾Ã–â€° Ã”Â½Ã•Â¶Ã•Â¤Ã–â‚¬Ã•Â¸Ã–â€šÃ•Â´ Ã•Â¥Ã•Â´ Ã•Â¶Ã•Â¥Ã–â‚¬Ã•Â´Ã•Â¸Ã–â€šÃ•Â®Ã•Â¥Ã–â€ž Ã•Â£Ã•Â¡Ã•Â²Ã•Â¿Ã•Â¶Ã•Â¡Ã•Â£Ã•Â«Ã–â‚¬Ã•Â¨ Ã•Â¡Ã•Â¶ Ã•Â¿Ã•Â¥Ã•Â½Ã•Â¶Ã•Â¥Ã•Â¬Ã•Â¸Ã–â€š Ã•Â¯Ã•Â¡Ã•Â´ Ã•Â´Ã•Â¥Ã•Â¯Ã•Â¶Ã•Â¡Ã•Â¢Ã•Â¡Ã•Â¶Ã•Â¥Ã•Â¬Ã•Â¸Ã–â€š Ã•Â°Ã•Â¡Ã•Â´Ã•Â¡Ã–â‚¬Ã–â€°"
+
+#@ uc-customized
+#: comments.php:31
+#, php-format
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Ã•â€žÃ•Â¥Ã•Â¯ Ã•Â´Ã•Â«Ã•Â¿Ã–â€ž  &laquo;%2$s&raquo; Ã•Â´Ã•Â¡Ã•Â½Ã•Â«Ã•Â¶"
+msgstr[1] "%1$s Ã•Â´Ã•Â¿Ã–â€žÃ•Â¥Ã–â‚¬ &laquo;%2$s&raquo; Ã•Â´Ã•Â¡Ã•Â½Ã•Â«Ã•Â¶"
+msgstr[2] "%1$s Ã�Â¼Ã‘â€¹Ã‘ï¿½Ã�Â»Ã�ÂµÃ�Â¹ Ã�Â¾ &laquo;%2$s&raquo;"
+msgstr[3] "%1$s Ã•Â´Ã•Â«Ã•Â¿Ã–â€ž  &laquo;%2$s&raquo; Ã•Â´Ã•Â¡Ã•Â½Ã•Â«Ã•Â¶"
+
+#@ uc-customized
+#: comments.php:38
+#: comments.php:50
+msgid "Comment navigation"
+msgstr "Ã•â€ Ã•Â¡Ã•Â¾Ã•Â¡Ã–â‚¬Ã•Â¯Ã•Â¸Ã–â€šÃ•Â´ Ã•Â´Ã•Â¥Ã•Â¯Ã•Â¶Ã•Â¡Ã•Â¢Ã•Â¡Ã•Â¶Ã•Â¸Ã–â€šÃ•Â©Ã•ÂµÃ•Â¸Ã–â€šÃ•Â¶Ã•Â¶Ã•Â¥Ã–â‚¬Ã•Â¸Ã•Â¾"
+
+#@ uc-customized
+#: comments.php:39
+#: comments.php:51
+msgid "&larr; Newer Comments"
+msgstr "&larr; Ã•â‚¬Ã•Â¡Ã•Â»Ã•Â¸Ã–â‚¬Ã•Â¤ Ã•Â´Ã•Â¥Ã•Â¯Ã•Â¶Ã•Â¡Ã•Â¢Ã•Â¡Ã•Â¶Ã•Â¸Ã–â€šÃ•Â©Ã•ÂµÃ•Â¸Ã–â€šÃ•Â¶Ã•Â¶Ã•Â¥Ã–â‚¬Ã•Â¨"
+
+#@ uc-customized
+#: comments.php:40
+#: comments.php:52
+msgid "Older Comments &rarr;"
+msgstr "Ã•â€ Ã•Â¡Ã•Â­Ã•Â¸Ã–â‚¬Ã•Â¤ Ã•Â´Ã•Â¥Ã•Â¯Ã•Â¶Ã•Â¡Ã•Â¢Ã•Â¡Ã•Â¶Ã•Â¸Ã–â€šÃ•Â©Ã•ÂµÃ•Â¸Ã–â€šÃ•Â¶Ã•Â¶Ã•Â¥Ã–â‚¬Ã•Â¨ &rarr;"
+
+#@ uc-customized
+#: comments.php:60
+msgid "Comments are closed."
+msgstr "Ã•â€žÃ•Â¥Ã•Â¯Ã•Â¶Ã•Â¡Ã•Â¢Ã•Â¡Ã•Â¶Ã•Â¸Ã–â€šÃ•Â©Ã•ÂµÃ•Â¸Ã–â€šÃ•Â¶Ã•Â¶Ã•Â¥Ã–â‚¬Ã•Â¨ Ã–Æ’Ã•Â¡Ã•Â¯Ã•Â¾Ã•Â¡Ã•Â® Ã•Â¥Ã•Â¶."
+
+#@ uc-customized
+#: comments.php:64
+msgctxt "noun"
+msgid "Comment"
+msgstr "Ã•â€žÃ•Â¥Ã•Â¯Ã•Â¶Ã•Â¡Ã•Â¢Ã•Â¡Ã•Â¶Ã•Â¥Ã•Â¬"
+
+#@ uc-customized
+#: comments.php:66
+#, php-format
+msgid "You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags and attributes: %s"
+msgstr "Ã”Â´Ã•Â¸Ã–â€šÃ–â€ž Ã•Â¯Ã•Â¡Ã–â‚¬Ã•Â¸Ã•Â² Ã•Â¥Ã–â€ž Ã–â€¦Ã•Â£Ã•Â¿Ã•Â¡Ã•Â£Ã•Â¸Ã–â‚¬Ã•Â®Ã•Â¥Ã•Â¬ <abbr title=\"HyperText Markup Language\">HTML</abbr>-Ã•Â¿Ã•Â¥Ã•Â£Ã•Â¥Ã–â‚¬ Ã–â€¡ Ã•Â¡Ã•Â¿Ã–â‚¬Ã•Â«Ã•Â¢Ã•Â¸Ã–â€šÃ•Â¿Ã•Â¶Ã•Â¥Ã–â‚¬: %s"
+
+#@ uc-customized
+#: comments.php:70
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "Ã•â€žÃ•Â¥Ã•Â¯Ã•Â¶Ã•Â¡Ã•Â¢Ã•Â¡Ã•Â¶Ã•Â¸Ã–â€šÃ•Â©Ã•ÂµÃ•Â¸Ã–â€šÃ•Â¶ Ã•Â©Ã•Â¸Ã•Â²Ã•Â¶Ã•Â¥Ã•Â¬Ã•Â¸Ã–â€š Ã•Â°Ã•Â¡Ã•Â´Ã•Â¡Ã–â‚¬ Ã•Â¡Ã•Â¶Ã•Â°Ã–â‚¬Ã•Â¡Ã•ÂªÃ•Â¥Ã•Â·Ã•Â¿ Ã•Â§ <a href=\"%s\">Ã•Â¶Ã•Â¸Ã–â€šÃ•ÂµÃ•Â¶Ã•Â¡Ã•Â¯Ã•Â¡Ã•Â¶Ã•Â¡Ã•Â¶Ã•Â¡Ã•Â¬</a>."
+
+#@ uc-customized
+#: comments.php:71
+#, php-format
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of this account\">Log out?</a>"
+msgstr "Ã”Â´Ã•Â¸Ã–â€šÃ–â€ž Ã•Â´Ã•Â¸Ã–â€šÃ•Â¿Ã–â€ž Ã•Â¥Ã–â€ž Ã•Â£Ã•Â¸Ã–â‚¬Ã•Â®Ã•Â¥Ã•Â¬ Ã•Â¸Ã–â‚¬Ã•ÂºÃ•Â¥Ã•Â½Ã•ï¿½ <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Ã”ÂµÃ•Â¬Ã–â€ž\">Ã”ÂµÃ•Â¬Ã–â€ž</a>"
+
+#@ uc-customized
+#: functions.php:232
+#, php-format
+msgid "&copy; %1$s <a href=\"%2$s\">%3$s</a>, all rights reserved."
+msgstr "&copy; %1$s <a href=\"%2$s\">%3$s</a>, Ã”Â²Ã•Â¸Ã•Â¬Ã•Â¸Ã–â‚¬ Ã•Â«Ã–â‚¬Ã•Â¡Ã•Â¾Ã•Â¸Ã–â€šÃ•Â¶Ã–â€žÃ•Â¶Ã•Â¥Ã–â‚¬Ã•Â¨ Ã•ÂºÃ•Â¡Ã•Â·Ã•Â¿Ã•ÂºÃ•Â¡Ã•Â¶Ã•Â¾Ã•Â¡Ã•Â® Ã•Â¥Ã•Â¶Ã–â€°"
+
+#@ uc-customized
+#: footer.php:22
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#@ uc-customized
+#: footer.php:23
+msgid "Semantic Personal Publishing Platform"
+msgstr "Ã”ÂºÃ•Â¡Ã•Â´Ã•Â¡Ã•Â¶Ã•Â¡Ã•Â¯Ã•Â¡Ã•Â¯Ã•Â«Ã–ï¿½ Ã•ÂºÃ–â‚¬Ã•Â¸Ã–â€ Ã•Â¥Ã•Â½Ã•Â«Ã•Â¸Ã•Â¶Ã•Â¡Ã•Â¬ Ã•Â°Ã•Â¡Ã–â‚¬Ã•Â©Ã•Â¡Ã•Â¯ Ã•Â°Ã–â‚¬Ã•Â¡Ã•Â¿Ã•Â¡Ã–â‚¬Ã•Â¡Ã•Â¯Ã•Â´Ã•Â¡Ã•Â¶ Ã•Â°Ã•Â¡Ã•Â´Ã•Â¡Ã–â‚¬"
+
+#@ uc-customized
+#: footer.php:25
+#, php-format
+msgctxt "WordPress"
+msgid "Proudly powered by %s"
+msgstr "Ã•â‚¬Ã•Â«Ã•Â´Ã•Â¶Ã•Â¾Ã•Â¡Ã•Â® Ã•Â¿Ã•Â¥Ã•Â­Ã•Â¶Ã•Â¸Ã•Â¬Ã•Â¸Ã•Â£Ã•Â«Ã•Â¡Ã•ÂµÃ•Â« Ã•Â¾Ã–â‚¬Ã•Â¡ %s"
+
+#@ uc-customized
+#: footer.php:31
+#, php-format
+msgid "%d queries. %s seconds."
+msgstr "%d Ã•Â¤Ã•Â«Ã•Â´Ã•Â¸Ã–â€šÃ•Â´. %s Ã•Â¾Ã•Â¡Ã•ÂµÃ–â‚¬Ã•Â¯Ã•ÂµÃ•Â¡Ã•Â¶."
+
+#@ uc-customized
+#: functions.php:61
+msgid "Main Navigation"
+msgstr "Ã”Â³Ã•Â¬Ã•Â­Ã•Â¡Ã•Â¾Ã•Â¸Ã–â‚¬ Ã•Â¶Ã•Â¡Ã•Â¾Ã•Â¡Ã–â‚¬Ã•Â¯Ã•Â¸Ã–â€šÃ•Â´"
+
+#@ uc-customized
+#: functions.php:107
+msgid "Main Sidebar"
+msgstr "Ã•â‚¬Ã•Â«Ã•Â´Ã•Â¶Ã•Â¡Ã•Â¯Ã•Â¡Ã•Â¶ Ã•Â¯Ã•Â¸Ã•Â²Ã•Â´Ã•Â¶Ã•Â¡Ã•ÂµÃ•Â«Ã•Â¶ Ã•Â¾Ã•Â¡Ã•Â°Ã•Â¡Ã•Â¶Ã•Â¡Ã•Â¯"
+
+#@ uc-customized
+#: functions.php:116
+msgid "Image Sidebar"
+msgstr "Ã•â€ Ã•Â¯Ã•Â¡Ã–â‚¬Ã•Â¶Ã•Â¥Ã–â‚¬Ã•Â« Ã•Â¯Ã•Â¸Ã•Â²Ã•Â´Ã•Â¶Ã•Â¡Ã•ÂµÃ•Â«Ã•Â¶ Ã•Â¾Ã•Â¡Ã•Â°Ã•Â¡Ã•Â¶Ã•Â¡Ã•Â¯"
+
+#@ uc-customized
+#: inc/template-tags.php:69
+#, php-format
+msgid "<span class=\"sep\">Posted on </span><a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\"><time class=\"entry-date\" datetime=\"%3$s\" pubdate>%4$s</time></a><span class=\"by-author\"> <span class=\"sep\"> by </span> <span class=\"author vcard\"><a class=\"url fn n\" href=\"%5$s\" title=\"%6$s\" rel=\"author\">%7$s</a></span></span>"
+msgstr "<span class=\"sep\">Ã•â‚¬Ã–â‚¬Ã•Â¡Ã•ÂºÃ•Â¡Ã–â‚¬Ã•Â¡Ã•Â¯Ã•Â¾Ã•Â¡Ã•Â® Ã•Â§ </span><a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\"><time class=\"entry-date\" datetime=\"%3$s\" pubdate>%4$s</time></a> <span class=\"author vcard\"><a class=\"url fn n\" href=\"%5$s\" title=\"%6$s\" rel=\"author\">%7$s</a></span></span><span class=\"by-author\"> <span class=\"sep\">-Ã•Â« Ã•Â¯Ã•Â¸Ã•Â²Ã•Â´Ã•Â«Ã–ï¿½ </span>"
+
+#@ uc-customized
+#: inc/template-tags.php:75
+#, php-format
+msgid "View all posts by %s"
+msgstr "Ã•â‚¬Ã•Â¥Ã•Â²Ã•Â«Ã•Â¶Ã•Â¡Ã•Â¯Ã•Â« Ã•Â¢Ã•Â¸Ã•Â¬Ã•Â¸Ã–â‚¬ Ã•Â£Ã–â‚¬Ã•Â¡Ã•Â¼Ã•Â¸Ã–â€šÃ•Â´Ã•Â¶Ã•Â¥Ã–â‚¬Ã•Â¨ %s"
+
+#@ uc-customized
+#: inc/template-tags.php:81
+msgid "<strong>1</strong> Reply"
+msgstr "<strong>1</strong> Ã•â€žÃ•Â¥Ã•Â¯Ã•Â¶Ã•Â¡Ã•Â¢Ã•Â¡Ã•Â¶Ã•Â¸Ã–â€šÃ•Â©Ã•ÂµÃ•Â¸Ã–â€šÃ•Â¶"
+
+#@ uc-customized
+#: inc/template-tags.php:81
+msgid "<strong>%</strong> Replies"
+msgstr "<strong>%</strong> Ã•â€žÃ•Â¥Ã•Â¯Ã•Â¶Ã•Â¡Ã•Â¢Ã•Â¡Ã•Â¶Ã•Â¸Ã–â€šÃ•Â©Ã•ÂµÃ•Â¸Ã–â€šÃ•Â¶Ã•Â¶Ã•Â¥Ã–â‚¬"
+
+#@ uc-customized
+#: functions.php:387
+#: functions.php:413
+#: image.php:55
+#: inc/template-tags.php:85
+#: partials/content-page.php:22
+msgid "Edit"
+msgstr "Ã”Â½Ã•Â´Ã•Â¢Ã•Â¡Ã•Â£Ã–â‚¬Ã•Â¥Ã•Â¬"
+
+#@ uc-customized
+#: inc/template-tags.php:109
+msgid "Next page"
+msgstr "Ã•â‚¬Ã•Â¡Ã•Â»Ã•Â¸Ã–â‚¬Ã•Â¤ Ã•Â§Ã•Â»"
+
+#@ uc-customized
+#: inc/template-tags.php:110
+msgid "Previous page"
+msgstr "Ã•â€ Ã•Â¡Ã•Â­Ã•Â¸Ã–â‚¬Ã•Â¤ Ã•Â§Ã•Â»"
+
+#@ uc-customized
+#: inc/template-tags.php:124
+#: inc/template-tags.php:138
+msgid "Pages:"
+msgstr "Ã”Â·Ã•Â»Ã•Â¥Ã–â‚¬:"
+
+#@ uc-customized
+#: functions.php:274
+#: partials/content-aside.php:29
+#: partials/content-image.php:17
+#: partials/content-page.php:19
+#: partials/content-status.php:31
+#: partials/content.php:38
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Ã•Â¯Ã•Â¡Ã–â‚¬Ã•Â¤Ã•Â¡Ã•Â¬ Ã•Â¡Ã•Â¾Ã•Â¥Ã•Â¬Ã•Â«Ã•Â¶ <span class=\"meta-nav\">&rarr;</span>"
+
+#@ uc-customized
+#: functions.php:386
+msgid "Pingback:"
+msgstr "Ã•â€ Ã•Â·Ã•Â¡Ã•Â£Ã–â‚¬Ã•Â¸Ã–â€šÃ•Â´Ã¢â‚¬Â¤"
+
+#@ uc-customized
+#. translators: 1: comment author, 2: date and time
+#: functions.php:404
+#, php-format
+msgid "%1$s <span class=\"says\">said</span> on %2$s:"
+msgstr "%1$s <span class=\"says\">Ã•Â¡Ã•Â½Ã•Â¥Ã•Â¬ Ã•Â§</span> %2$s:"
+
+#@ uc-customized
+#. translators: 1: date, 2: time
+#: functions.php:410
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s Ã�Â² %2$s"
+
+#@ uc-customized
+#: functions.php:417
+msgid "Your comment is awaiting moderation."
+msgstr "Ã•ï¿½Ã•Â¥Ã–â‚¬ Ã•Â°Ã•Â¡Ã•Â²Ã•Â¸Ã–â‚¬Ã•Â¤Ã•Â¡Ã•Â£Ã–â‚¬Ã•Â¸Ã–â€šÃ•Â©Ã•ÂµÃ•Â¸Ã–â€šÃ•Â¶Ã•Â¨ Ã•Â½Ã•ÂºÃ•Â¡Ã•Â½Ã•Â¸Ã–â€šÃ•Â´ Ã•Â§ Ã•Â°Ã•Â¡Ã•Â½Ã•Â¿Ã•Â¡Ã•Â¿Ã•Â´Ã•Â¡Ã•Â¶Ã–â€°"
+
+#@ uc-customized
+#: functions.php:426
+msgid "Reply <span>&darr;</span>"
+msgstr "Ã•Å Ã•Â¡Ã•Â¿Ã•Â¡Ã•Â½Ã•Â­Ã•Â¡Ã•Â¶Ã•Â¥Ã•Â¬ <span>&darr;</span>"
+
+#@ uc-customized
+#: functions.php:490
+msgid "Name"
+msgstr "Ã”Â±Ã•Â¶Ã•Â¸Ã–â€šÃ•Â¶"
+
+#@ uc-customized
+#: functions.php:493
+#: functions.php:519
+msgid "required"
+msgstr "Ã•ÂºÃ•Â¡Ã–â‚¬Ã•Â¿Ã•Â¡Ã•Â¤Ã•Â«Ã–â‚¬"
+
+#@ uc-customized
+#: functions.php:516
+msgid "Email"
+msgstr "Ã”Â·Ã•Â¬Ã•Â¥Ã•Â¯Ã•Â¿Ã–â‚¬Ã•Â¸Ã•Â¶Ã•Â¡Ã•ÂµÃ•Â«Ã•Â¶ Ã–Æ’Ã•Â¸Ã•Â½Ã•Â¿"
+
+#@ uc-customized
+#: functions.php:519
+msgid "will not be published"
+msgstr "Ã•Â¹Ã•Â« Ã•Â°Ã–â‚¬Ã•Â¡Ã•ÂºÃ•Â¡Ã–â‚¬Ã•Â¡Ã•Â¯Ã•Â¾Ã•Â«"
+
+#@ uc-customized
+#: functions.php:540
+msgid "Website"
+msgstr "Ã•Å½Ã•Â¥Ã•Â¢ Ã•Â§Ã•Â»"
+
+#@ uc-customized
+#: functions.php:716
+#, php-format
+msgid "%d comment"
+msgid_plural "%d comments"
+msgstr[0] "%d Ã•Â´Ã•Â¥Ã•Â¯Ã•Â¶Ã•Â¡Ã•Â¢Ã•Â¡Ã•Â¶Ã•Â¸Ã–â€šÃ•Â©Ã•ÂµÃ•Â¸Ã–â€šÃ•Â¶"
+msgstr[1] "%d Ã•Â´Ã•Â¥Ã•Â¯Ã•Â¶Ã•Â¡Ã•Â¢Ã•Â¡Ã•Â¶Ã•Â¸Ã–â€šÃ•Â©Ã•ÂµÃ•Â¸Ã–â€šÃ•Â¶"
+msgstr[2] "%d Ã•Â´Ã•Â¥Ã•Â¯Ã•Â¶Ã•Â¡Ã•Â¢Ã•Â¡Ã•Â¶Ã•Â¸Ã–â€šÃ•Â©Ã•ÂµÃ•Â¸Ã–â€šÃ•Â¶Ã•Â¶Ã•Â¥Ã–â‚¬"
+msgstr[3] "%d Ã•Â´Ã•Â¥Ã•Â¯Ã•Â¶Ã•Â¡Ã•Â¢Ã•Â¡Ã•Â¶Ã•Â¸Ã–â€šÃ•Â©Ã•ÂµÃ•Â¸Ã–â€šÃ•Â¶"
+
+#@ uc-customized
+#: functions.php:782
+msgid "This post is password protected. To view it please enter your password below:"
+msgstr "Ã”Â±Ã•ÂµÃ•Â½ Ã•Â£Ã–â‚¬Ã•Â¡Ã•Â¼Ã•Â¸Ã–â€šÃ•Â´Ã•Â¨ Ã•ÂºÃ•Â¡Ã•Â·Ã•Â¿Ã•ÂºÃ•Â¡Ã•Â¶Ã•Â¾Ã•Â¡Ã•Â® Ã•Â§ Ã•Â£Ã•Â¡Ã•Â²Ã•Â¿Ã•Â¶Ã•Â¡Ã•Â¢Ã•Â¡Ã•Â¼Ã•Â¸Ã•Â¾ Ã–â€° Ã”Â±Ã•ÂµÃ•Â¶ Ã•Â¿Ã•Â¥Ã•Â½Ã•Â¶Ã•Â¥Ã•Â¬Ã•Â¸Ã–â€š Ã•Â°Ã•Â¡Ã•Â´Ã•Â¡Ã–â‚¬ Ã•Â­Ã•Â¶Ã•Â¤Ã–â‚¬Ã•Â¸Ã–â€šÃ•Â´ Ã•Â¥Ã•Â¶Ã–â€ž Ã•Â´Ã•Â¸Ã–â€šÃ•Â¿Ã–â€žÃ•Â¡Ã•Â£Ã–â‚¬Ã•Â¥Ã–â€ž Ã•Â£Ã•Â¡Ã•Â²Ã•Â¿Ã•Â¶Ã•Â¡Ã•Â¢Ã•Â¡Ã•Â¼Ã•Â¨ Ã–â€°"
+
+#@ uc-customized
+#: functions.php:782
+msgid "Password:"
+msgstr "Ã”Â³Ã•Â¡Ã•Â²Ã•Â¿Ã•Â¶Ã•Â¡Ã•Â¢Ã•Â¡Ã•Â¼:"
+
+#@ uc-customized
+#: functions.php:782
+msgid "Submit"
+msgstr "Ã•Ë†Ã–â€šÃ•Â²Ã•Â¡Ã–â‚¬Ã•Â¯Ã•Â¥Ã•Â¬"
+
+#@ uc-customized
+#: header.php:57
+msgid "Main menu"
+msgstr "Ã”Â³Ã•Â¬Ã•Â­Ã•Â¡Ã•Â¾Ã•Â¸Ã–â‚¬ Ã•Â´Ã•Â¥Ã•Â¶Ã•ÂµÃ•Â¸Ã–â€š"
+
+#@ uc-customized
+#: header.php:58
+msgid "Skip to primary content"
+msgstr "Ã”Â±Ã•Â¶Ã–ï¿½Ã•Â¶Ã•Â¥Ã•Â¬ Ã•Â°Ã•Â«Ã•Â´Ã•Â¶Ã•Â¡Ã•Â¯Ã•Â¡Ã•Â¶ Ã•Â¢Ã•Â¸Ã•Â¾Ã•Â¡Ã•Â¶Ã•Â¤Ã•Â¡Ã•Â¯Ã•Â¸Ã–â€šÃ•Â©Ã•ÂµÃ•Â¡Ã•Â¶Ã•Â¨"
+
+#@ uc-customized
+#: header.php:59
+msgid "Skip to secondary content"
+msgstr "Ã”Â±Ã•Â¶Ã–ï¿½Ã•Â¶Ã•Â¥Ã•Â¬ Ã•Â¬Ã–â‚¬Ã•Â¡Ã–ï¿½Ã•Â¸Ã–â€šÃ–ï¿½Ã•Â«Ã•Â¹ Ã•Â¢Ã•Â¸Ã•Â¾Ã•Â¡Ã•Â¶Ã•Â¤Ã•Â¡Ã•Â¯Ã•Â¸Ã–â€šÃ•Â©Ã•ÂµÃ•Â¡Ã•Â¶Ã•Â¨"
+
+#@ uc-customized
+#: image.php:47
+msgid "image"
+msgid_plural "images"
+msgstr[0] "Ã•Â¶Ã•Â¯Ã•Â¡Ã–â‚¬"
+msgstr[1] "Ã•Â¶Ã•Â¯Ã•Â¡Ã–â‚¬"
+msgstr[2] "Ã•Â¶Ã•Â¯Ã•Â¡Ã–â‚¬"
+msgstr[3] "Ã•Â¶Ã•Â¯Ã•Â¡Ã–â‚¬"
+
+#@ uc-customized
+#: image.php:56
+msgid "Leave a comment"
+msgstr "Ã•â€žÃ•Â¥Ã•Â¯Ã•Â¶Ã•Â¡Ã•Â¢Ã•Â¡Ã•Â¶Ã•Â¥Ã•Â¬"
+
+#@ uc-customized
+#: image.php:59
+msgid "&laquo; Previous Photo"
+msgstr "&larr; Ã•â€ Ã•Â¡Ã•Â­Ã•Â¸Ã–â‚¬Ã•Â¤ Ã•Â¶Ã•Â¯Ã•Â¡Ã–â‚¬Ã•Â¨"
+
+#@ uc-customized
+#: image.php:61
+msgid "Next Photo &raquo;"
+msgstr "Ã•â‚¬Ã•Â¡Ã•Â»Ã•Â¸Ã–â‚¬Ã•Â¤ Ã•Â¶Ã•Â¯Ã•Â¡Ã–â‚¬Ã•Â¨ &rarr;"
+
+#@ uc-customized
+#: inc/uc-customized-image-meta-widget.php:27
+msgid "uCertify Customized Image Meta Widget"
+msgstr "Ã•â€ Ã•Â¡Ã•Â¯Ã–â‚¬Ã•Â¶Ã•Â¥Ã–â‚¬Ã•Â« Ã•Â´Ã•Â¥Ã•Â¿Ã•Â¡Ã•Â¿Ã•Â¾Ã•ÂµÃ•Â¡Ã•Â¬Ã•Â¶Ã•Â¥Ã–â‚¬"
+
+#@ uc-customized
+#: inc/uc-customized-image-meta-widget.php:29
+msgid "Displays meta information on image attachment pages"
+msgstr "Ã•â€˜Ã•Â¸Ã–â€šÃ–ï¿½Ã•Â¡Ã•Â¤Ã–â‚¬Ã•Â¾Ã•Â¸Ã–â€šÃ•Â´ Ã•Â§ Ã•Â¶Ã•Â¯Ã•Â¡Ã–â‚¬Ã•Â¶Ã•Â¥Ã–â‚¬Ã•Â« Ã•Â´Ã•Â¥Ã•Â¿Ã•Â¡Ã•Â«Ã•Â¶Ã–â€ Ã•Â¸Ã–â‚¬Ã•Â´Ã•Â¡Ã–ï¿½Ã•Â«Ã•Â¡Ã•Â¶"
+
+#@ uc-customized
+#: inc/uc-customized-image-meta-widget.php:51
+msgid "Info"
+msgstr "Ã•ï¿½Ã•Â¥Ã•Â²Ã•Â¥Ã•Â¯Ã•Â¸Ã–â€šÃ•ÂµÃ•Â©"
+
+#@ uc-customized
+#: inc/uc-customized-image-meta-widget.php:59
+msgid "Created:"
+msgstr "Ã•ï¿½Ã•Â¿Ã•Â¥Ã•Â²Ã•Â®Ã•Â¾Ã•Â¡Ã•Â® Ã•Â§Ã•ï¿½"
+
+#@ uc-customized
+#: inc/uc-customized-image-meta-widget.php:63
+msgid "Full size:"
+msgstr "Ã”Â¼Ã–â‚¬Ã•Â«Ã•Â¾ Ã•Â¹Ã•Â¡Ã–Æ’Ã•Â¸Ã•Â¾Ã¢â‚¬Â¤"
+
+#@ uc-customized
+#: inc/uc-customized-image-meta-widget.php:64
+#, php-format
+msgid "%s pixels"
+msgstr "%s Ã•ÂºÃ•Â«Ã–â€žÃ•Â½Ã•Â¥Ã•Â¬"
+
+#@ uc-customized
+#: inc/uc-customized-image-meta-widget.php:67
+msgid "Aperture:"
+msgstr "Ã”Â´Ã•Â«Ã•Â¸Ã–â€ Ã–â‚¬Ã•Â¡Ã•Â£Ã•Â´Ã•Â¡Ã¢â‚¬Â¤"
+
+#@ uc-customized
+#: inc/uc-customized-image-meta-widget.php:72
+msgid "Focal length:"
+msgstr "Ã”Â¿Ã•Â«Ã•Â¦Ã•Â¡Ã•Â¯Ã•Â¥Ã•Â¿Ã¢â‚¬Â¤"
+
+#@ uc-customized
+#: inc/uc-customized-image-meta-widget.php:77
+msgid "Iso:"
+msgstr "ISO:"
+
+#@ uc-customized
+#: inc/uc-customized-image-meta-widget.php:82
+msgid "Shutter:"
+msgstr "Ã•â‚¬Ã•Â¡Ã•Â¿Ã•Â¾Ã•Â¡Ã•Â®:"
+
+#@ uc-customized
+#: inc/uc-customized-image-meta-widget.php:101
+msgid "Camera:"
+msgstr "Ã•ï¿½Ã•Â¥Ã•Â½Ã•Â¡Ã•Â­Ã–ï¿½Ã•Â«Ã•Â¯Ã¢â‚¬Â¤"
+
+#@ uc-customized
+#: inc/uc-customized-image-meta-widget.php:152
+msgid "Title:"
+msgstr "Ã•Å½Ã•Â¥Ã–â‚¬Ã•Â¶Ã•Â¡Ã•Â£Ã•Â«Ã–â‚¬Ã¢â‚¬Â¤"
+
+#@ uc-customized
+#: partials/content-aside.php:17
+#: partials/content-gallery.php:17
+#: partials/content-status.php:17
+#: partials/content.php:16
+#: partials/content.php:21
+#, php-format
+msgid "Permalink to %s"
+msgstr "Ã•â€žÃ•Â·Ã•Â¿Ã•Â¡Ã•Â¯Ã•Â¡Ã•Â¶ Ã•Â°Ã•Â²Ã•Â¸Ã–â€šÃ•Â´Ã¢â‚¬Â¤ %s"
+
+#@ uc-customized
+#: partials/content-gallery.php:49
+#, php-format
+msgid "This gallery contains <strong>%1$s photo</strong>."
+msgid_plural "This gallery contains <strong>%1$s photos</strong>."
+msgstr[0] "Ã•Å Ã•Â¡Ã•Â¿Ã•Â¯Ã•Â¥Ã–â‚¬Ã•Â¡Ã•Â½Ã–â‚¬Ã•Â¡Ã•Â°Ã•Â¨ Ã•ÂºÃ•Â¡Ã–â‚¬Ã•Â¸Ã–â€šÃ•Â¶Ã•Â¡Ã•Â¯Ã•Â¸Ã–â€šÃ•Â´ Ã•Â§  <strong>%1$s Ã•Â¶Ã•Â¯Ã•Â¡Ã–â‚¬ </strong>."
+msgstr[1] "Ã•Å Ã•Â¡Ã•Â¿Ã•Â¯Ã•Â¥Ã–â‚¬Ã•Â¡Ã•Â½Ã–â‚¬Ã•Â¡Ã•Â°Ã•Â¨ Ã•ÂºÃ•Â¡Ã–â‚¬Ã•Â¸Ã–â€šÃ•Â¶Ã•Â¡Ã•Â¯Ã•Â¸Ã–â€šÃ•Â´ Ã•Â§ <strong>%1$s Ã•Â¶Ã•Â¯Ã•Â¡Ã–â‚¬ </strong>."
+msgstr[2] "Ã•Å Ã•Â¡Ã•Â¿Ã•Â¯Ã•Â¥Ã–â‚¬Ã•Â¡Ã•Â½Ã–â‚¬Ã•Â¡Ã•Â°Ã•Â¨ Ã•ÂºÃ•Â¡Ã–â‚¬Ã•Â¸Ã–â€šÃ•Â¶Ã•Â¡Ã•Â¯Ã•Â¸Ã–â€šÃ•Â´ Ã•Â§Ã‘â€š <strong>%1$s Ã•Â¶Ã•Â¯Ã•Â¡Ã–â‚¬ </strong>."
+msgstr[3] "Ã•Å Ã•Â¡Ã•Â¿Ã•Â¯Ã•Â¥Ã–â‚¬Ã•Â¡Ã•Â½Ã–â‚¬Ã•Â¡Ã•Â°Ã•Â¨ Ã•ÂºÃ•Â¡Ã–â‚¬Ã•Â¸Ã–â€šÃ•Â¶Ã•Â¡Ã•Â¯Ã•Â¸Ã–â€šÃ•Â´ Ã•Â§ <strong>%1$s Ã•Â¶Ã•Â¯Ã•Â¡Ã–â‚¬ </strong>."
+
+#@ uc-customized
+#: partials/content-no-results.php:14
+msgid "Nothing Found"
+msgstr "Ã•Ë†Ã•Â¹Ã•Â«Ã•Â¶Ã•Â¹ Ã•Â¹Ã•Â« Ã•Â£Ã•Â¿Ã•Â¶Ã•Â¾Ã•Â¥Ã•Â¬"
+
+#@ uc-customized
+#: partials/content-no-results.php:19
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr "Ã•â€ Ã•Â¥Ã–â‚¬Ã•Â¸Ã•Â²Ã•Â¸Ã–â€šÃ•Â©Ã•ÂµÃ•Â¸Ã–â€šÃ•Â¶, Ã•Â¢Ã•Â¡Ã•ÂµÃ–ï¿½ Ã•ï¿½Ã•Â¥Ã–â‚¬ Ã•Â¸Ã–â‚¬Ã•Â¸Ã•Â¶Ã•Â´Ã•Â¡Ã•Â¶Ã•Â¨ Ã•Â°Ã•Â¡Ã•Â´Ã•Â¡Ã•ÂºÃ•Â¡Ã•Â¿Ã•Â¡Ã•Â½Ã•Â­Ã•Â¡Ã•Â¶ Ã•Â¸Ã•Â¹Ã•Â«Ã•Â¶Ã•Â¹ Ã•Â¹Ã•Â« Ã•Â£Ã•Â¿Ã•Â¶Ã•Â¾Ã•Â¥Ã•Â¬Ã–â€° Ã”Â½Ã•Â¶Ã•Â¤Ã–â‚¬Ã•Â¸Ã–â€šÃ•Â´ Ã•Â¥Ã•Â¶Ã–â€ž Ã•Â´Ã•Â¸Ã–â€šÃ•Â¿Ã–â€žÃ•Â¡Ã•Â£Ã–â‚¬Ã•Â¥Ã•Â¬ Ã•Â¡Ã•ÂµÃ•Â¬ Ã•Â¢Ã•Â¡Ã•Â¶Ã•Â¡Ã•Â¬Ã•Â«Ã•Â¡Ã•ÂµÃ•Â«Ã•Â¶ Ã•Â¢Ã•Â¡Ã•Â¼Ã–â€°"
+
+#@ uc-customized
+#: partials/content-no-results.php:21
+msgid "Apologies, but no results were found for the requested archive. Perhaps searching will help find a related post."
+msgstr "Ã•â€˜Ã•Â¡Ã•Â¾Ã•Â¸Ã–â€ž, Ã•Â°Ã•Â¡Ã–â‚¬Ã–ï¿½Ã•Â¾Ã•Â¡Ã•Â® Ã•Â¡Ã–â‚¬Ã•Â­Ã•Â«Ã•Â¾Ã•Â¸Ã–â€šÃ•Â´ Ã•Â¸Ã•Â¹Ã•Â«Ã•Â¶Ã•Â¹ Ã•Â¹Ã•Â¯Ã•Â¡Ã–â€° Ã•â‚¬Ã•Â¶Ã•Â¡Ã–â‚¬Ã•Â¡Ã•Â¾Ã•Â¸Ã–â‚¬ Ã•Â§, Ã•Â¸Ã–â‚¬ Ã•Â¸Ã–â‚¬Ã•Â¸Ã•Â¶Ã•Â¸Ã–â€šÃ•Â´Ã•Â¨ Ã–â€¦Ã•Â£Ã•Â¶Ã•Â« Ã•ï¿½Ã•Â¥Ã•Â¦ Ã•Â£Ã•Â¿Ã•Â¶Ã•Â¥Ã•Â¬ Ã•Â°Ã•Â¥Ã•Â¿Ã•Â¡Ã–â€žÃ–â‚¬Ã–â€žÃ–â‚¬Ã•Â¸Ã•Â² Ã•Â£Ã–â‚¬Ã•Â¡Ã•Â¼Ã•Â¸Ã–â€šÃ•Â´Ã•Â¨Ã–â€°"
+
+#@ uc-customized
+#: comments.php:68
+#: inc/template-tags.php:81
+msgid "Leave a reply"
+msgstr "Ã”Â¹Ã•Â¸Ã•Â²Ã•Â¶Ã•Â¥Ã•Â¬ Ã•Â´Ã•Â¥Ã•Â¯Ã•Â¶Ã•Â¡Ã•Â¢Ã•Â¡Ã•Â¶Ã•Â¸Ã–â€šÃ•Â©Ã•ÂµÃ•Â¸Ã–â€šÃ•Â¶"
+
+#@ uc-customized
+#: partials/content-single.php:29
+#: partials/content.php:47
+#, php-format
+msgid "Posted in %1$s."
+msgstr "Ã”Â±Ã•Â¾Ã•Â¥Ã•Â¬Ã•Â¡Ã–ï¿½Ã•Â¾Ã•Â¡Ã•Â® Ã•Â§ %1$s-Ã•Â¸Ã–â€šÃ•Â´Ã–â€°"
+
+#@ uc-customized
+#: partials/content-single.php:30
+#: partials/content-single.php:34
+#: partials/content.php:48
+msgctxt "used between list items, there is a space after the comma"
+msgid ", "
+msgstr ", "
+
+#@ uc-customized
+#: partials/content-single.php:33
+msgid "Tagged "
+msgstr "Ã•Å Ã•Â«Ã•Â¿Ã•Â¡Ã•Â¯Ã•Â¶Ã•Â¥Ã–â‚¬Ã¢â‚¬Â¤"
+
+#@ uc-customized
+#: partials/content-single.php:47
+#, php-format
+msgid "View all posts by %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Ã•ï¿½Ã•Â¥Ã•Â½Ã•Â¶Ã•Â¥Ã•Â¬ Ã•Â°Ã•Â¥Ã•Â²Ã•Â«Ã•Â¶Ã•Â¡Ã•Â¯Ã•Â« Ã•Â¢Ã•Â¸Ã•Â¬Ã•Â¸Ã–â‚¬ Ã•Â£Ã–â‚¬Ã•Â¡Ã•Â¼Ã•Â¸Ã–â€šÃ•Â´Ã•Â¶Ã•Â¥Ã–â‚¬Ã•Â¨ %s <span class=\"meta-nav\">&rarr;</span>"
+
+#@ uc-customized
+#: partials/content.php:17
+msgid "Featured"
+msgstr "Ã”Â¸Ã•Â¶Ã•Â¿Ã–â‚¬Ã•ÂµÃ•Â¡Ã•Â¬Ã•Â¶Ã•Â¥Ã–â‚¬"
+
+#@ uc-customized
+#: search.php:20
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Ã•Ë†Ã–â‚¬Ã•Â¸Ã•Â¶Ã•Â´Ã•Â¡Ã•Â¶ Ã•Â¡Ã–â‚¬Ã•Â¤Ã•ÂµÃ•Â¸Ã–â€šÃ•Â¶Ã–â€žÃ•Â¨ Ã•Â¨Ã•Â½Ã•Â¿Ã¢â‚¬Â¤ %s"
+
+#@ uc-customized
+#: searchform.php:13
+#: searchform.php:14
+msgid "Search"
+msgstr "Ã•Ë†Ã–â‚¬Ã•Â¸Ã•Â¶Ã•Â¥Ã•Â¬"
+
+#@ uc-customized
+#: sidebar.php:14
+msgid "Archives"
+msgstr "Ã”Â±Ã–â‚¬Ã•Â­Ã•Â«Ã•Â¾Ã•Â¶Ã•Â¥Ã–â‚¬"
+
+#@ uc-customized
+#: sidebar.php:21
+msgid "Meta"
+msgstr "Ã•â€žÃ•Â¥Ã•Â¿Ã•Â¡"
+
+#@ uc-customized
+#: single.php:25
+msgid "Post navigation"
+msgstr "Ã•â€ Ã•Â¡Ã•Â¾Ã•Â¡Ã–â‚¬Ã•Â¯Ã•Â¸Ã–â€šÃ•Â´ Ã•Â£Ã–â‚¬Ã•Â¡Ã•Â¼Ã•Â¸Ã–â€šÃ•Â´Ã•Â¶Ã•Â¥Ã–â‚¬Ã•Â¸Ã•Â¾"
+
+#@ uc-customized
+#: single.php:26
+msgid "Next Post"
+msgstr "Ã•â‚¬Ã•Â¡Ã•Â»Ã•Â¸Ã–â‚¬Ã•Â¤"
+
+#@ uc-customized
+#: single.php:27
+msgid "Previous Post"
+msgstr "Ã•â€ Ã•Â¡Ã•Â­Ã•Â¸Ã–â‚¬Ã•Â¤"
+
+#@ uc-customized
+#: tag.php:21
+#, php-format
+msgid "Tag Archives: %s"
+msgstr "Ã•Å Ã•Â«Ã•Â¿Ã•Â¡Ã•Â¯Ã•Â¶Ã•Â¥Ã–â‚¬Ã•Â« Ã•Â¡Ã–â‚¬Ã•Â­Ã•Â«Ã•Â¾Ã¢â‚¬Â¤ %s"
+
+#@ uc-customized
+#: comments.php:69
+#, php-format
+msgid "Leave a reply to %s"
+msgstr "Ã”Â¹Ã•Â¸Ã•Â²Ã•Â¶Ã•Â¥Ã•Â¬ Ã•Â´Ã•Â¥Ã•Â¯Ã•Â¶Ã•Â¡Ã•Â¢Ã•Â¡Ã•Â¶Ã•Â¸Ã–â€šÃ•Â©Ã•ÂµÃ•Â¸Ã–â€šÃ•Â¶ %s"
+
+#@ uc-customized
+#: functions.php:62
+msgid "Header Menu"
+msgstr "Ã”Â³Ã•Â¬Ã•Â­Ã•Â¡Ã•Â£Ã•Â«Ã–â‚¬ Ã•Â´Ã•Â¥Ã•Â¶Ã•ÂµÃ•Â¸Ã–â€š"
+
+#@ uc-customized
+#: functions.php:63
+msgid "Footer Menu"
+msgstr "Ã”Â·Ã•Â»Ã•Â¡Ã•Â¿Ã•Â¡Ã•Â¯ Ã•Â´Ã•Â¥Ã•Â¶Ã•ÂµÃ•Â¸Ã–â€š"
+
+#@ uc-customized
+#: partials/content-gallery.php:73
+msgctxt "carousel-control"
+msgid "&lsaquo;"
+msgstr "&lsaquo;"
+
+#@ uc-customized
+#: partials/content-gallery.php:74
+msgctxt "carousel-control"
+msgid "&rsaquo;"
+msgstr "&lsaquo;"
+
+#@ uc-customized
+#: searchform.php:15
+msgid "Go"
+msgstr "&rarr;"
+
+#@ uc-customized
+#: functions.php:117
+msgid "Shown on image attachment pages."
+msgstr "Ã”Â·Ã•Â»Ã•Â¥Ã–â‚¬Ã•Â«Ã–ï¿½ Ã•Â¡Ã–â‚¬Ã•Â¿Ã•Â¡Ã•ÂºÃ•Â¡Ã•Â¿Ã•Â¯Ã•Â¥Ã–â‚¬Ã•Â¥Ã•Â¬ Ã•Â¶Ã•Â¯Ã•Â¡Ã–â‚¬Ã•Â¶Ã•Â¥Ã–â‚¬"
+
